@@ -1,0 +1,6 @@
+:root {
+  --main-color: #e28711;
+}
+.portfolio .container .content .box .text {
+  background: rgb(3 48 116 / 65%);
+}
